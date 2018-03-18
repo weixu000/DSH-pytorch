@@ -7,3 +7,13 @@ And thanks to [This repo on TensorFlow](https://github.com/yg33717/DSH_tensorflo
 I only tested it once as it has been pushed, and it seems to be able to reproduce the result claimed on the paper.
 
 More results will be added...
+
+# How to Run
+I intended to make it easy for reading. You can easily run it by
+```
+python main.py
+```
+commandline uasge have a nice-looking help
+ ```
+ pyhon main.py -h
+ ```
